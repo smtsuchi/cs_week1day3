@@ -1,0 +1,15 @@
+.logo-wrapper{
+    height:200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid #eee;
+}
+.logo-wrapper img{
+    max-height: 100px;
+    max-width: 100%;
+}
+.row2 {
+    flex-direction: row;
+}
